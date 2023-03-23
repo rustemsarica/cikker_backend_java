@@ -1,3 +1,3 @@
-# cikker_backend_java
+# cikker backend
 
 Spring Boot 19
