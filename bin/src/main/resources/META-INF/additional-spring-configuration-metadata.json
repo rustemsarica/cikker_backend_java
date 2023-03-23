@@ -1,0 +1,97 @@
+{"properties": [
+  {
+    "name": "todoapp-spring.secret.expires",
+    "type": "java.lang.String",
+    "description": "A description for 'todoapp-spring.secret.expires'"
+  },
+  {
+    "name": "todoapp-spring.public.key",
+    "type": "java.lang.String",
+    "description": "A description for 'todoapp-spring.public.key'"
+  },
+  {
+    "name": "todoapp-spring.public.key",
+    "type": "java.lang.String",
+    "description": "A description for 'todoapp-spring.public.key'"
+  },
+  {
+    "name": "todoapp-spring.secret.expires",
+    "type": "java.lang.String",
+    "description": "A description for 'todoapp-spring.secret.expires'"
+  },
+  {
+    "name": "todoapp-spring.public.key",
+    "type": "java.lang.String",
+    "description": "A description for 'todoapp-spring.public.key'"
+  },
+  {
+    "name": "todoapp-spring.secret.expires",
+    "type": "java.lang.String",
+    "description": "A description for 'todoapp-spring.secret.expires'"
+  },
+  {
+    "name": "todoapp-spring.public.key",
+    "type": "java.lang.String",
+    "description": "A description for 'todoapp-spring.public.key'"
+  },
+  {
+    "name": "todoapp-spring.secret.expires",
+    "type": "java.lang.String",
+    "description": "A description for 'todoapp-spring.secret.expires'"
+  },
+  {
+    "name": "todoapp-spring.public.key",
+    "type": "java.lang.String",
+    "description": "A description for 'todoapp-spring.public.key'"
+  },
+  {
+    "name": "todoapp-spring.public.key",
+    "type": "java.lang.String",
+    "description": "A description for 'todoapp-spring.public.key'"
+  },
+  {
+    "name": "todoapp-spring.secret.expires",
+    "type": "java.lang.String",
+    "description": "A description for 'todoapp-spring.secret.expires'"
+  },
+  {
+    "name": "todoapp-spring.public.key",
+    "type": "java.lang.String",
+    "description": "A description for 'todoapp-spring.public.key'"
+  },
+  {
+    "name": "todoapp-spring.secret.expires",
+    "type": "java.lang.String",
+    "description": "A description for 'todoapp-spring.secret.expires'"
+  },
+  {
+    "name": "todoapp-spring.secret.expires",
+    "type": "java.lang.String",
+    "description": "A description for 'todoapp-spring.secret.expires'"
+  },
+  {
+    "name": "todoapp-spring.public.key",
+    "type": "java.lang.String",
+    "description": "A description for 'todoapp-spring.public.key'"
+  },
+  {
+    "name": "todoapp-spring.public.key",
+    "type": "java.lang.String",
+    "description": "A description for 'todoapp-spring.public.key'"
+  },
+  {
+    "name": "todoapp-spring.secret.expires",
+    "type": "java.lang.String",
+    "description": "A description for 'todoapp-spring.secret.expires'"
+  },
+  {
+    "name": "todoapp-spring.secret.expires",
+    "type": "java.lang.String",
+    "description": "A description for 'todoapp-spring.secret.expires'"
+  },
+  {
+    "name": "todoapp-spring.public.key",
+    "type": "java.lang.String",
+    "description": "A description for 'todoapp-spring.public.key'"
+  }
+]}
