@@ -1,3 +1,3 @@
-# cikker backend
+# Cikker Backend
 
 Spring Boot 19
